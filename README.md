@@ -70,55 +70,54 @@ MemoRise 는 `물체인식` 을 기반으로 물체에 `메모`를 남겨 편하
 
 ### 🛠 개발 환경
 
-<b>협업 도구</b> : <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jirasoftware&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Gitlab-000000?style=flat-square&logo=gitlab&logoColor=FC6D26"/> <br/><br/>
-<b>운영 및 배포 </b> : <img src="https://img.shields.io/badge/AWS EC2-000000?style=flat-square&logo=amazonec2&logoColor=FF9900"/> <img src="https://img.shields.io/badge/AWS S3-000000?style=flat-square&logo=amazons3&logoColor=569A31"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=E6522C"/> <img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=F46800"/>
-
+<b>협업 도구</b> : <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <br/><br/>
+<b>운영 및 배포 </b> : <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <details>
 <summary>버전 상세 정보</summary>
 
-- `Ubuntu` : 20.04 LTS <br/>
-- `Jenkins` : 2.422 <br/>
-- `Docker` : 24.0.6 <br/>
-- `Prometheus` : 2.37 <br/>
-- `Grafana` : 10.1.4 <br/>
+> `Ubuntu` : 20.04 LTS <br/>
+> `Jenkins` : 2.422 <br/>
+> `Docker` : 24.0.6 <br/>
+> `Prometheus` : 2.37 <br/>
+> `Grafana` : 10.1.4 <br/>
 </details> <br/>
 
-<b>백엔드</b> : <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=744e3b"/> <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Springboot-000000?style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Springsecurity-000000?style=flat-square&logo=springsecurity&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=02303A"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=DC382D"/>
+<b>백엔드</b> : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <details>
 <summary>버전 상세 정보</summary>
 
-- `Java` : OpenJDK 17.0.3 <br/>
-- `Spring Boot` : 3.1.3 <br/>
-- `QueryDsl` : 5.0.0 <br/>
-- `Spring Security` : 6.1.3 <br/>
-- `MySQL` : 8.0.33 <br/>
-- `Gradle` : 8.2.1 <br/>
+> `Java` : OpenJDK 17.0.3 <br/>
+> `Spring Boot` : 3.1.3 <br/>
+> `QueryDsl` : 5.0.0 <br/>
+> `Spring Security` : 6.1.3 <br/>
+> `MySQL` : 8.0.33 <br/>
+> `Gradle` : 8.2.1 <br/>
 </details> <br/>
 
-<b>프론트엔드</b> : <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=333333"/><br/>
+<b>프론트엔드</b> : <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/reactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"><br/>
 
 <details>
 <summary>버전 상세 정보</summary>
 
-- `Java Script` : ES 6 <br/>
-- `React-Native` : 0.72.4 <br/>
-- `Redux` : 8.1.2 <br/>
-- `npm` : 9.5.1 <br/>
-- `Axios` : 1.5.0 <br/>
-- `WebRTC` : 111.0.3 <br/>
+> `Java Script` : ES 6 <br/>
+> `React-Native` : 0.72.4 <br/>
+> `Redux` : 8.1.2 <br/>
+> `npm` : 9.5.1 <br/>
+> `Axios` : 1.5.0 <br/>
+> `WebRTC` : 111.0.3 <br/>
 </details> <br/><br/>
 
-<b>인공지능</b> : <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pytorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=333333"/><br/>
+<b>인공지능</b> : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"><br/>
 
 <details>
 <summary>버전 상세 정보</summary>
 
-- `Python` : 3.9.16 <br/>
-- `Pytorch` : 2.0.1+cu118 <br/>
-- `Anaconda` : 23.7.2 <br/>
-- `MongoDB` : 4.4.24 <br/>
-- `WebRTC(aiortc)` : 1.5.0 <br/>
+> `Python` : 3.9.16 <br/>
+> `Pytorch` : 2.0.1+cu118 <br/>
+> `Anaconda` : 23.7.2 <br/>
+> `MongoDB` : 4.4.24 <br/>
+> `WebRTC(aiortc)` : 1.5.0 <br/>
 </details> <br/><br/>
 
 # 📺 서비스 상세 내용
