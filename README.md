@@ -51,8 +51,8 @@ MemoRise 는 `물체인식` 을 기반으로 물체에 `메모`를 남겨 편하
         <td align="center">AOS</td>
         <td align="center">AOS</td>
         <td align="center">AOS</td>
-        <td align="center">AI</td>
         <td align="center">Backend</td>
+        <td align="center">AI</td>
         <td align="center">Backend/Infra</td>
     </tr>
 </table>
